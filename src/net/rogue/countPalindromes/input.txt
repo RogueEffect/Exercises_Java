@@ -1,0 +1,6 @@
+abc 3
+aba 3
+abcba 5
+abcdefghijklmnopqrstuvwxyz 26
+abba 4
+rsrcbgfuuxywimddyhmydgxwbpwpswracecarmcvqlexrosldqvgalsegaskvnxjwwijxeyudfplmvydhmakzmswmtrohikdjeoruotydshnwtrpasjfztkaswnqjtbtaqpbzbhuimjzbijofxgjvwbkqgsdlkeicvrtjognilcvwyygnwgfbucyuqbxazlymhwrrire 39
