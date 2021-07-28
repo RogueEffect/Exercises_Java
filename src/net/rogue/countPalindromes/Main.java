@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Main {
     
     public static void main(String[] args) {
-        String filename = "input.txt";
+        String filename = "/countPalindromes.txt";
         InputStream is = Main.class.getResourceAsStream(filename);
         if(is == null) {
             System.out.printf("file not found: %s\n", filename);
